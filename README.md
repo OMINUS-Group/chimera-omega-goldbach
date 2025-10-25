@@ -52,9 +52,11 @@ This project bridges **number theory, AI, and cosmological symmetry**.
 ### Documentation
 
 📘 Full analytic paper (LaTeX):  
+
 [`chimera_omega_full.tex`](chimera_omega_full.tex)
 
 📄 Direct PDF version (if available):
+
 [`chimera_omega_full.pdf`](chimera_omega_full.pdf)
 
 📜 INPI Registration:  
