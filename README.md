@@ -59,6 +59,8 @@ This project bridges **number theory, AI, and cosmological symmetry**.
 
 [`chimera_omega_full.pdf`](chimera_omega_full.pdf)
 
+
+
 📜 INPI Registration:  
 **DSO2025023838 — CHIMERA Ω®**  
 Filed 25 October 2025 — *Ominus Group / Tonia AI*
