@@ -24,7 +24,7 @@ I(N) = \max_{p+q=N} \big( 0.7(1 - |p-q|/N) + 0.3/(|p-q| + 1) \big)
 This project bridges **number theory, AI, and cosmological symmetry**.
 
 ---
-📘 Full analytic paper: chimera_omega_full.tex
+📘 Full analytic paper: [`chimera_omega_full.tex`](chimera_omega_full.tex)
 
 ### Features
 
@@ -52,7 +52,7 @@ This project bridges **number theory, AI, and cosmological symmetry**.
 ### Documentation
 
 📘 Full analytic paper (LaTeX):  
-[`chimera_omega_public.tex`](chimera_omega_public.tex)
+[`chimera_omega_full.tex`](chimera_omega_full.tex)
 
 📄 Direct PDF version (if available):  
 [`chimera_omega_public.pdf`](chimera_omega_public.pdf)
