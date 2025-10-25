@@ -80,10 +80,13 @@ See [`LICENSE`](LICENSE) for details.
 
 ### Links
 
+### Links
+
 🌐 Official site → [ominus.ai](https://ominus.ai)  
 📘 arXiv preprint → *(math.NT, Oct 2025)*  
 🔗 LinkedIn → [Alain Valette-Clary](https://linkedin.com/in/alain-valette-clary)  
-📧 Contact → [contact@ominus.ai](mailto:contact@ominus.ai)
+📧 Contact OMINUS Group → [regis@baccaro.com](mailto:regis@baccaro.com)
+
 
 ---
 
