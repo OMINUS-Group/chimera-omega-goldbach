@@ -54,8 +54,8 @@ This project bridges **number theory, AI, and cosmological symmetry**.
 📘 Full analytic paper (LaTeX):  
 [`chimera_omega_full.tex`](chimera_omega_full.tex)
 
-📄 Direct PDF version (if available):  
-[`chimera_omega_public.pdf`](chimera_omega_public.pdf)
+📄 Direct PDF version (if available):
+[`chimera_omega_full.pdf`](chimera_omega_full.pdf)
 
 📜 INPI Registration:  
 **DSO2025023838 — CHIMERA Ω®**  
