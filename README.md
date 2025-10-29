@@ -85,8 +85,7 @@ See [`LICENSE`](LICENSE) for details.
 🌐 Official site → [ominus.ai](https://ominus.ai)  
 📘 arXiv preprint → *(math.NT, Oct 2025)*  
 🔗 LinkedIn → [Alain Valette-Clary](https://linkedin.com/in/alain-valette-clary)  
-📧 Contact OMINUS Group → [regis@baccaro.com](mailto:regis@baccaro.com)
-
+📧 Contact OMINUS Group → [OMINUS_GROUP.AI](mailto:regis@baccaro.com)
 
 ---
 
