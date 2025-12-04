@@ -1,6 +1,6 @@
 # CHIMERA Ω — Goldbach Resonance Engine
 
-![banner](figures/chimera_omega_resonance.png)
+![banner](figures/resonance.jpg)
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![INPI Registered](https://img.shields.io/badge/INPI-DSO2025023838-blue.svg)](#)
