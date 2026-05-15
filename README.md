@@ -1,93 +1,68 @@
 # CHIMERA Ω — Goldbach Resonance Engine
 
-![banner](figures/resonance.jpg)
+![Banner](figures/resonance.jpg)
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![INPI Registered](https://img.shields.io/badge/INPI-DSO2025023838-blue.svg)](#)
-[![Python](https://img.shields.io/badge/python-3.11+-blue.svg)](#)
-[![Status](https://img.shields.io/badge/version-1.0--public-gold.svg)](#)
+[![INPI](https://img.shields.io/badge/INPI-DSO2025023838-blue)](https://www.inpi.fr/)
+[![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
+[![Stars](https://img.shields.io/github/stars/OMINUS-Group/chimera-omega-goldbach)](https://github.com/OMINUS-Group/chimera-omega-goldbach/stargazers)
+[![arXiv](https://img.shields.io/badge/arXiv-math.NT-orange)](https://arxiv.org)
 
 ---
 
-### Overview
+## 🌌 Overview
 
-**CHIMERA Ω** is a registered analytic engine developed by  
-**Alain Valette-Clary – Ominus Group / Tonia AI (France)**.  
+**CHIMERA Ω** is an analytic engine developed by **Alain Valette-Clary (Ominus Group)** that computes the **Goldbach Resonance Index** \(I(N)\). It links number theory, artificial intelligence, and cosmological symmetry.
 
-It computes the **Goldbach Resonance Index** \( I(N) \),  
-a new mathematical measure capturing the *harmonic tension* between prime pairs:
+It is registered as **CHIMERA Ω®** (INPI DSO2025023838).
+
+### Goldbach Resonance Index
 
 \[
-I(N) = \max_{p+q=N} \big( 0.7(1 - |p-q|/N) + 0.3/(|p-q| + 1) \big)
+I(N) = \max_{p+q=N} \left( 0.7\left(1 - \frac{|p-q|}{N}\right) + \frac{0.3}{|p-q| + 1} \right)
 \]
 
-This project bridges **number theory, AI, and cosmological symmetry**.
+This index measures the *harmonic tension* between Goldbach prime pairs.
 
----
-📘 Full analytic paper: [`chimera_omega_full.tex`](chimera_omega_full.tex)
+## ✨ Features
 
-### Features
+- Efficient computation up to \(N = 10^6\) and beyond
+- Parallelized NumPy implementation
+- Full LaTeX analytic paper with proofs
+- Visualizations of resonance landscapes
+- Protected intellectual property with open-science sharing
 
-- Full resonance computation up to \(10^6\)
-- Parallelized implementation (Python / NumPy)
-- Analytic proof and LaTeX source
-- Registered and protected algorithm (INPI DSO2025023838)
-- Open-science license (CC-BY-4.0)
-
----
-
-### Files
+## 📁 Repository Structure
 
 | File | Description |
-|------|--------------|
-| `chimera_omega.py` | Main analytic engine — computes \(I(N)\) |
-| `chimera_omega_public.tex` | Full LaTeX paper (public scientific version) |
-| `chimera_omega_public.pdf` | Compiled document (optional) |
-| `LICENSE` | Legal notice — CC-BY-4.0 + INPI registration |
-| `figures/chimera_omega_resonance.png` | Official visual illustration |
-| `data/results_sample.json` | Example numeric output |
+|------|-------------|
+| `chimera_omega.py` | Core engine for \(I(N)\) |
+| `chimera_omega_public.tex` / `.pdf` | Scientific paper |
+| `figures/` | Resonance plots and visuals |
+| `data/` | Sample results |
+| `LICENSE` | CC-BY-4.0 + INPI notice |
+
+## 🚀 Quick Start
+
+```bash
+git clone https://github.com/OMINUS-Group/chimera-omega-goldbach.git
+cd chimera-omega-goldbach
+pip install numpy matplotlib
+python chimera_omega.py
+```
+
+## 📘 Documentation
+
+Full paper: [`chimera_omega_full.tex`](chimera_omega_full.tex)
+
+## 📜 Legal
+
+© 2025 Alain Valette-Clary – Ominus Group  
+**INPI DSO2025023838 — CHIMERA Ω®**  
+Licensed under [CC BY 4.0](LICENSE)
 
 ---
 
-### Documentation
+> *“Where primes resonate like cosmic strings.”*
 
-📘 Full analytic paper (LaTeX):  
-
-[`chimera_omega_full.tex`](chimera_omega_full.tex)
-
-📄 Direct PDF version (if available):
-
-[`chimera_omega_full.pdf`](chimera_omega_full.pdf)
-
-
-
-📜 INPI Registration:  
-**DSO2025023838 — CHIMERA Ω®**  
-Filed 25 October 2025 — *Ominus Group / Tonia AI*
-
----
-
-### License
-
-© 2025 **Alain Valette-Clary – Ominus Group / Tonia AI**  
-Registered under **INPI DSO2025023838 — CHIMERA Ω®**  
-
-Released for scientific and educational purposes  
-under the **Creative Commons Attribution 4.0 International License (CC-BY-4.0)**.  
-See [`LICENSE`](LICENSE) for details.
-
----
-
-### Links
-
-### Links
-
-🌐 Official site → [ominus.ai](https://ominus.ai)  
-📘 arXiv preprint → *(math.NT, Oct 2025)*  
-🔗 LinkedIn → [Alain Valette-Clary](https://linkedin.com/in/alain-valette-clary)  
-📧 Contact OMINUS Group → [OMINUS_GROUP.AI](mailto:contact@ominus.ai)
-
----
-
-> “Where prime numbers vibrate like stars —  
-> CHIMERA Ω maps the resonance of Goldbach’s universe.”
+🌐 [ominus.ai](https://ominus.ai) | [Contact](mailto:contact@ominus.ai)
